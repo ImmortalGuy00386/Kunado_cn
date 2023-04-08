@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Kunado_cn", "Kunado_cn\Kunado_cn.vcxproj", "{374FB2B3-EE56-4299-BCB7-2668C0E59524}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CmvsFileHook", "CmvsFileHook\CmvsFileHook.vcxproj", "{BBF3F6C1-8F1F-43B5-9ABC-8B09172CF689}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TDA", "TDA\TDA.vcxproj", "{6025B745-02F7-47EA-9911-35649DA8CEA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{374FB2B3-EE56-4299-BCB7-2668C0E59524}.Debug|x86.ActiveCfg = Debug|Win32
+		{374FB2B3-EE56-4299-BCB7-2668C0E59524}.Debug|x86.Build.0 = Debug|Win32
+		{374FB2B3-EE56-4299-BCB7-2668C0E59524}.Release|x86.ActiveCfg = Release|Win32
+		{374FB2B3-EE56-4299-BCB7-2668C0E59524}.Release|x86.Build.0 = Release|Win32
+		{BBF3F6C1-8F1F-43B5-9ABC-8B09172CF689}.Debug|x86.ActiveCfg = Debug|Win32
+		{BBF3F6C1-8F1F-43B5-9ABC-8B09172CF689}.Debug|x86.Build.0 = Debug|Win32
+		{BBF3F6C1-8F1F-43B5-9ABC-8B09172CF689}.Release|x86.ActiveCfg = Release|Win32
+		{BBF3F6C1-8F1F-43B5-9ABC-8B09172CF689}.Release|x86.Build.0 = Release|Win32
+		{6025B745-02F7-47EA-9911-35649DA8CEA0}.Debug|x86.ActiveCfg = Debug|Win32
+		{6025B745-02F7-47EA-9911-35649DA8CEA0}.Debug|x86.Build.0 = Debug|Win32
+		{6025B745-02F7-47EA-9911-35649DA8CEA0}.Release|x86.ActiveCfg = Release|Win32
+		{6025B745-02F7-47EA-9911-35649DA8CEA0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DFC6C32-5BCC-4845-8AAB-E51D44EAA638}
+	EndGlobalSection
+EndGlobal
